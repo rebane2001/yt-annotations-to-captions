@@ -1,11 +1,11 @@
 # yt-annotations-to-captions
 Convert YouTube annotations to captions
 
-#Requierments
+## Requierments
 Python 3.x (https://www.python.org/downloads/)
 srt (pip install srt)
 
-#Usage
+## Usage
 annotations2subs.py annotations.xml captions.srt
 Use youtube-dl with the --write-annotations option to download an annotations file
 
